@@ -51,3 +51,7 @@ Web version using Flask or Django
 Difficulty levels and timers
 
 User authentication and analytics
+
+👨‍💻 Author
+
+Mokara Sarath Chandra
