@@ -56,4 +56,4 @@ User authentication and analytics
 
 Mokara Sarath Chandra
 
-🔗 Connect with me: [LinkedIn](linkedin.com/in/mokara-sarath-chandra-8b7732362) 
+🔗 Connect with me: [LinkedIn](linkedin.com/in/mokara-sarath-chandra-8b7732362)
