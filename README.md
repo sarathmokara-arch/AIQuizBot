@@ -55,5 +55,6 @@ User authentication and analytics
 👨‍💻 Author
 
 Mokara Sarath Chandra
-🔗 Connect with me:  [GitHub](https://github.com/your-github-username)
+
+🔗 Connect with me:  [GitHub](https://github.com/sarathmokara-arch)
 [LinkedIn](https://www.linkedin.com/in/mokara-sarath-chandra-8b7732362?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
