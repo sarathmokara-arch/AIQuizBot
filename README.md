@@ -55,3 +55,4 @@ User authentication and analytics
 👨‍💻 Author
 
 Mokara Sarath Chandra
+[LinkedIn](https://www.linkedin.com/in/mokara-sarath-chandra-8b7732362?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
